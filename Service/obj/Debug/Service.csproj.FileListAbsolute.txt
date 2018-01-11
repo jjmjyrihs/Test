@@ -1,0 +1,7 @@
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\bin\Debug\Service.dll
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\bin\Debug\Service.pdb
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\bin\Debug\Model.dll
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\bin\Debug\Model.pdb
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\obj\Debug\Service.dll
+F:\Legend\Homework\ASP.Net\ASP-master\DB\Service\obj\Debug\Service.pdb
